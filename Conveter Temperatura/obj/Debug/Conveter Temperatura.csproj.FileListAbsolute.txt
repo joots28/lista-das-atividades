@@ -1,0 +1,7 @@
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\bin\Debug\Conveter Temperatura.exe.config
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\bin\Debug\Conveter Temperatura.exe
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\bin\Debug\Conveter Temperatura.pdb
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\obj\Debug\Conveter Temperatura.csproj.AssemblyReference.cache
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\obj\Debug\Conveter Temperatura.csproj.CoreCompileInputs.cache
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\obj\Debug\Conveter Temperatura.exe
+D:\home\jonathan_25310\OneDrive\Conveter Temperatura\obj\Debug\Conveter Temperatura.pdb

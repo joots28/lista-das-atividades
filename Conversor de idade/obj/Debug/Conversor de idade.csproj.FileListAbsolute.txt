@@ -1,0 +1,7 @@
+D:\home\jonathan_25310\OneDrive\Conversor de idade\obj\Debug\Conversor de idade.csproj.AssemblyReference.cache
+D:\home\jonathan_25310\OneDrive\Conversor de idade\obj\Debug\Conversor de idade.csproj.CoreCompileInputs.cache
+D:\home\jonathan_25310\OneDrive\Conversor de idade\bin\Debug\Conversor de idade.exe.config
+D:\home\jonathan_25310\OneDrive\Conversor de idade\bin\Debug\Conversor de idade.exe
+D:\home\jonathan_25310\OneDrive\Conversor de idade\bin\Debug\Conversor de idade.pdb
+D:\home\jonathan_25310\OneDrive\Conversor de idade\obj\Debug\Conversor de idade.exe
+D:\home\jonathan_25310\OneDrive\Conversor de idade\obj\Debug\Conversor de idade.pdb
